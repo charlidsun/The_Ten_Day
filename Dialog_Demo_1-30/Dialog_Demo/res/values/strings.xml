@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialog_Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="exitbutt">退出对话框</string>
+    <string name="listbutt">列表对话框</string>
+    <string name="selebutt">单选对话框</string>
+    <string name="morebutt">多选对话框</string>
+    <string name="editbutt">编辑对话框</string>
+
+</resources>
